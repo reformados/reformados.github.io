@@ -1,15 +1,49 @@
-# Regras do grupo
+# Regras do grupo – @Reformados
 
-1. Conversar com áudio é proibido e áudios serão deletados automaticamente, motivos:
-  * Áudios não são indexáveis, não dá para buscarmos um conteúdo em um áudio utilizando a busca do grupo
-  * Nem todas as pessoas podem ouvir por motivos diversos. Respeite estas pessoas.
-  * Uma conversa com áudio não é algo fácil de se acompanhar e interagir a não ser que se ouça tudo. Não dá para fazer "audição dinâmica" para compreender contexto.
-2. Proibido correntes, spam ou qualquer conteúdo que se assemelhe a tal. Serão apagados e havendo reincidência poderá ocorrer ban.
-  * Enviar qualquer tipo de link ou mídia para o grupo sem fazer comentários é caracterizado como spam. Sempre que desejar compartilhar algo no grupo, compartilhe e comente para incentivar o debate sobre o conteúdo postado.
-3. Debates fora do tema do grupo não são aceitos
-  * Podemos conversar sobre tudo, desde que o assunto conversado esteja debaixo da proposta do grupo. Ou seja, debates políticos, de time de futebol ou qualquer outro assunto que julgam ser polêmicos podem ser debatidos desde que seja sob a ótica do grupo.
-4. Pirataria.
-  * Qualquer tipo de pirataria é inaceitável no grupo. Prezamos por respeito as intensões de autores que desejam que suas publicações sejam pagas. Apenas poste no grupo material que seja de domínio público.
+O @Reformados é um espaço de diálogo e edificação mútua dentro da tradição reformada. Não é tribunal confessional nem espaço para militância de uma pauta específica.
+
+A tradição reformada distingue entre doutrinas essenciais e questões de consciência cristã. O grupo reconhece a existência de diferentes posições históricas dentro da ortodoxia reformada.
+
+## 1. Áudios
+
+Conversar por áudio é proibido e será deletado automaticamente, pois:
+
+- Áudios não são indexáveis e não podem ser buscados no grupo;
+- Nem todos podem ouvir por diversos motivos;
+- Dificultam o acompanhamento e a interação.
+
+## 2. Spam e correntes
+
+É proibido enviar correntes, spam ou conteúdo semelhante.
+
+- Links ou mídias sem comentário são considerados spam.
+- Sempre que compartilhar algo, contextualize para incentivar o debate.
+- Reincidência poderá resultar em banimento.
+
+## 3. Tema do grupo
+
+Debates devem estar sob a proposta do grupo, ou seja, à luz da tradição reformada.
+
+- Assuntos diversos só são aceitos se relacionados à temática do grupo.
+
+## 4. Pirataria
+
+- Qualquer forma de pirataria é inaceitável.
+- Apenas compartilhe material de domínio público.
+
+## 5. Convivência e dinâmica de debate
+
+Não é permitido transformar divergências em julgamento pessoal ou medida de espiritualidade.
+
+- Não é permitido apresentar posições pessoais como a única expressão legítima da fé reformada.
+- Não é permitido impor aplicações pessoais como regra universal.
+- Não é permitido monopolizar o grupo com confrontação constante ou insistência repetitiva sobre o mesmo tema.
+
+Defender uma posição é legítimo. Gerar desgaste recorrente no grupo não é.
+
+A moderação poderá encerrar debates improdutivos.
+
+**Processo:** Advertência → Reincidência → Banimento.
 
 ## Dados
 * Link: [https://t.me/Reformados](https://t.me/Reformados)
